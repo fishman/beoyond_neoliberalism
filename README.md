@@ -175,6 +175,8 @@ The proposed economic transformation framework is guided by several core princip
 
 6. **Environmental Sustainability**: Integrating ecological considerations into economic planning, particularly regarding water resources and energy transition. This principle acknowledges Iran's environmental constraints and the need for sustainable development patterns.
 
+7. **Institutional Integrity and Anti-Corruption**: Establishing transparent, accountable institutions with robust safeguards against corruption while preventing the weaponization of anti-corruption measures for political purposes. This principle recognizes that economic transformation requires both effective corruption control and protection against political abuse of oversight mechanisms.
+
 These principles provide a normative foundation for the transformation framework, guiding policy choices and institutional design. They represent a synthesis of diverse influences rather than adherence to a single economic doctrine, allowing for flexibility and adaptation to changing circumstances.
 
 ### Structural Reforms
@@ -211,7 +213,43 @@ The transformation framework requires an institutional architecture that support
 
 6. **Social Protection Framework**: Comprehensive mechanisms to mitigate reform impacts on vulnerable groups and ensure inclusive development. This framework would address both transitional adjustment costs and persistent vulnerabilities.
 
+7. **Anti-Corruption Framework**: A balanced system of institutions and procedures that effectively controls corruption while preventing the weaponization of anti-corruption measures for political purposes. This framework would enhance economic efficiency and public trust while maintaining political stability.
+
 This institutional architecture aims to create a dynamic and adaptive system capable of implementing complex reforms while responding to changing circumstances. It balances stability with flexibility, central coordination with decentralized initiative, and technical expertise with democratic accountability.
+
+### Anti-Corruption Framework
+
+A critical component of the institutional architecture is a comprehensive anti-corruption framework designed to enhance economic efficiency and public trust while preventing political weaponization:
+
+**Institutional Design Principles**:
+- Political independence with cross-spectrum representation to prevent partisan capture
+- Procedural transparency and public accountability to ensure fair application
+- Clear jurisdictional boundaries between different anti-corruption bodies
+- Evidence-based operations following standardized methodologies
+- Proportional consequences based on the severity of corruption
+
+**Institutional Structure**:
+- High Council for Public Integrity: A 15-member body with diverse representation providing strategic direction and oversight
+- Independent Anti-Corruption Commission: Operational agency with investigative powers and specialized departments
+- Specialized Anti-Corruption Courts: Judicial bodies with expertise in corruption cases
+- Parliamentary Oversight Committee: Cross-partisan body providing legislative oversight
+- Civil Society Monitoring Network: Platform for civil society engagement and independent assessment
+
+**Operational Procedures**:
+- Case Initiation Protocol: Standardized criteria and multiple channels for case initiation
+- Investigation Standards: Consistent methodologies regardless of subject's identity
+- Prosecution Decision Framework: Clear standards and multi-level review
+- Adjudication Procedures: Standardized processes with random judicial assignment
+- Sanction Implementation: Consistent application of penalties with monitoring
+
+**Sectoral Priorities**:
+- Public Procurement Reform: Transparent e-procurement systems with independent oversight
+- Resource Revenue Management: Comprehensive tracking of resource-related revenues
+- Financial System Integrity: Enhanced due diligence and monitoring systems
+- Regulatory Functions: Transparency in licensing, permitting, and regulatory decisions
+- Privatization and Public-Private Partnerships: Transparent processes with independent valuation
+
+This anti-corruption framework balances effective corruption control with safeguards against political abuse, creating multiple layers of protection against both corruption itself and the misuse of anti-corruption measures. By incorporating diverse perspectives, emphasizing transparency, and building broad-based ownership, it seeks to create a sustainable approach that can withstand political transitions and gradually transform underlying norms and practices.
 
 ### Implementation Strategy
 
@@ -566,7 +604,12 @@ Based on the economic transformation framework and implementation plan, specific
 
 **Digital Economy Development**:
 - Digital Infrastructure: Invest in comprehensive digital infrastructure, including broadband networks, data centers, and cloud computing capabilities. These investments should prioritize both urban connectivity and rural access to reduce digital divides.
-- Digital Government: Implement e-government services that enhance efficiency, transparency, and accessibility of public services. These services should be designed with user-centric approaches and appropriate support for citizens with limited digital literacy.
+- **Digital Government**: Implement e-government services that enhance efficiency, transparency, and accessibility of public services through a pragmatic dual-track approach:
+- Leverage existing infrastructure like the Alibaba superapp platform for immediate service deployment, allowing rapid implementation without waiting for complete domestic solutions
+- Simultaneously develop fully domestic applications with clear transition plans to ensure long-term digital sovereignty
+- Implement comprehensive public penetration testing programs that include domestic hacking groups
+- Create incentives and public recognition systems that celebrate white hat hackers as national heroes rather than threats
+- Provide appropriate support for citizens with limited digital literacy through user-centric design and assistance programs
 - Digital Enterprise Ecosystem: Develop support systems for digital startups and technology-based enterprises, including incubators, accelerators, venture capital, and specialized education programs. These systems should focus on developing solutions for local needs while building export capabilities.
 - Digital Skills Development: Establish comprehensive digital skills programs ranging from basic literacy to advanced technical capabilities. These programs should be integrated into formal education systems while providing reskilling opportunities for the existing workforce.
 - Digital Sovereignty: Develop strategic technological capabilities that ensure digital sovereignty in critical areas while participating in global digital ecosystems. This balanced approach reduces vulnerability while avoiding isolation from global innovation.
@@ -595,6 +638,7 @@ Based on the economic transformation framework and implementation plan, specific
 - Develop university education affordability initiatives
 - Create experimental reform zones in selected regions
 - Initiate public communication campaign on transformation objectives and approaches
+- Establish the High Council for Public Integrity and initial anti-corruption framework components
 
 **Medium-Term Priorities (12-36 Months)**:
 - Implement comprehensive tax system modernization
@@ -603,6 +647,7 @@ Based on the economic transformation framework and implementation plan, specific
 - Establish digital infrastructure development program
 - Implement initial financial system reforms
 - Develop regional development strategies for priority regions
+- Complete anti-corruption institutional architecture and operational procedures
 
 This sequencing balances the need for visible early results with the importance of building foundations for longer-term transformation. It addresses immediate economic challenges while initiating structural reforms that will yield benefits over time. The approach recognizes both technical considerations and political economy factors in determining reform priorities and timing.
 
