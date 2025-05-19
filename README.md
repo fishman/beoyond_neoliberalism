@@ -217,39 +217,92 @@ The transformation framework requires an institutional architecture that support
 
 This institutional architecture aims to create a dynamic and adaptive system capable of implementing complex reforms while responding to changing circumstances. It balances stability with flexibility, central coordination with decentralized initiative, and technical expertise with democratic accountability.
 
-### Anti-Corruption Framework
+### Anti-Corru### Anti-Corruption Framework
 
-A critical component of the institutional architecture is a comprehensive anti-corruption framework designed to enhance economic efficiency and public trust while preventing political weaponization:
+A vital component of the institutional architecture is a comprehensive anti-corruption framework designed to enhance economic efficiency and public trust while preventing political weaponization:
+
+#### Legal Foundation
+
+1. **Constitutional Amendment or Special Legislation**: Establish the framework through either a constitutional amendment or special legislation that ensures its independence and authority
+2. **Jurisdictional Clarity**: Define clear jurisdictional boundaries between the anti-corruption body and existing judicial and regulatory institutions
+3. **Protected Budget**: Secure dedicated funding through constitutional provisions to prevent financial pressure or manipulation
+4. **Immunity Provisions**: Provide legal immunity for committee members during their tenure for actions taken in official capacity
+
+#### Committee Composition (15 Members)
+
+**Leadership (2 members)**
+- **Chairperson**: A respected senior judge with at least 15 years of judicial experience, appointed jointly by the Supreme Leader and Parliament
+- **Vice-Chairperson**: A distinguished academic expert in governance and public administration, selected by universities' council of deans. The Acadimic expert cannot be focus on social sciences, but must have a distinguished career in hard sciences, such as Aerospace, Materials Engineering, Optoelectronics, Photonics, Molecular Engineering, Nuclear Physics, etc.
+
+**Judicial Representatives (3 members)**
+- A senior judge from the Supreme Court, selected by peers
+- A prosecutor with expertise in financial crimes, appointed by the Judiciary
+- A legal scholar specializing in administrative law, selected by the Bar Association
+
+**Government Representatives (3 members)**
+- A senior official from the Ministry of Economic Affairs, appointed by the Cabinet
+- A representative from the Supreme Audit Court, selected by its president
+- A senior member from the tax administration, appointed by the Minister of Finance
+
+**Independent Experts (4 members)**
+- An economist with expertise in institutional economics, selected through open competition
+- A forensic accounting specialist with international certification, selected through open competition
+- A public administration expert with experience in regulatory systems, selected through open competition
+- A technology specialist with expertise in data analytics and digital transparency, selected through open competition
+
+**Civil Society Representatives (3 members)**
+- A representative from business associations, elected by a council of chamber of commerce leaders
+- A representative from professional NGOs focused on transparency, selected by registered NGOs
+- A religious scholar with expertise in ethical governance, nominated by religious institutions
+
+#### Term Structure and Rotation
+- Staggered 5-year terms with possibility of one renewal
+- No more than 1/3 of members replaced in any given year
+- Mandatory cooling-off periods (3 years) before members can hold government positions
+
+#### Operational Structure
+1. **Investigation Division**: Professional investigators with backgrounds in law enforcement, financial analysis, and forensic accounting
+2. **Prevention Division**: Experts in systems design, regulatory frameworks, and compliance
+3. **Education and Public Engagement Division**: Specialists in communication, education, and community outreach
+4. **Data Analytics Unit**: Data scientists and IT specialists for pattern recognition and risk assessment
+5. **International Cooperation Unit**: Experts in international law and cross-border enforcement
+
+#### Accountability Mechanisms
+1. **Multi-level Oversight**: Supervision by a joint parliamentary-judicial committee
+2. **Transparency Requirements**: Mandatory quarterly public reporting on activities and outcomes
+3. **External Audit**: Annual independent audit by a rotating international accounting firm
+4. **Citizen Oversight Panel**: A randomly selected panel of citizens to review procedures and provide public perspective
+5. **Judicial Review**: Decisions subject to review by a specialized chamber of the Supreme Court
+
+#### Implementation Timeline
+1. **Months 1-3**: Draft and pass enabling legislation
+2. **Months 4-6**: Appoint committee members through transparent processes
+3. **Months 7-9**: Establish operational infrastructure and recruit staff
+4. **Months 10-12**: Develop procedures, protocols, and training programs
+5. **Year 2**: Begin operations with focus on high-risk sectors and preventive measures
 
 **Institutional Design Principles**:
 - Political independence with cross-spectrum representation to prevent partisan capture
-- Procedural transparency and public accountability to ensure fair application
-- Clear jurisdictional boundaries between different anti-corruption bodies
+- Procedural transparency and public accountability to ensure fair implementation
+- Clear jurisdictional boundaries between different anti-corruption institutions
 - Evidence-based operations following standardized methodologies
-- Proportional consequences based on the severity of corruption
-
-**Institutional Structure**:
-- High Council for Public Integrity: A 15-member body with diverse representation providing strategic direction and oversight
-- Independent Anti-Corruption Commission: Operational agency with investigative powers and specialized departments
-- Specialized Anti-Corruption Courts: Judicial bodies with expertise in corruption cases
-- Parliamentary Oversight Committee: Cross-partisan body providing legislative oversight
-- Civil Society Monitoring Network: Platform for civil society engagement and independent assessment
+- Proportionate consequences based on corruption severity
 
 **Operational Procedures**:
-- Case Initiation Protocol: Standardized criteria and multiple channels for case initiation
-- Investigation Standards: Consistent methodologies regardless of subject's identity
-- Prosecution Decision Framework: Clear standards and multi-level review
-- Adjudication Procedures: Standardized processes with random judicial assignment
-- Sanction Implementation: Consistent application of penalties with monitoring
+- Case initiation protocol: Standardized criteria and multiple channels for case initiation
+- Investigation standards: Consistent methodologies regardless of subject identity
+- Prosecution decision framework: Clear standards and multi-level review
+- Adjudication procedures: Standardized processes with random judicial assignment
+- Penalty enforcement: Consistent application of penalties with oversight
 
 **Sectoral Priorities**:
-- Public Procurement Reform: Transparent e-procurement systems with independent oversight
-- Resource Revenue Management: Comprehensive tracking of resource-related revenues
-- Financial System Integrity: Enhanced due diligence and monitoring systems
-- Regulatory Functions: Transparency in licensing, permitting, and regulatory decisions
-- Privatization and Public-Private Partnerships: Transparent processes with independent valuation
+- Public procurement reform: Transparent e-procurement systems with independent oversight
+- Resource revenue management: Comprehensive tracking of resource-related revenues
+- Financial system integrity: Thorough investigation and advanced monitoring systems
+- Regulatory functions: Transparency in licensing, permitting, and regulatory decisions
+- Privatization and public-private partnerships: Transparent processes with independent evaluation
 
-This anti-corruption framework balances effective corruption control with safeguards against political abuse, creating multiple layers of protection against both corruption itself and the misuse of anti-corruption measures. By incorporating diverse perspectives, emphasizing transparency, and building broad-based ownership, it seeks to create a sustainable approach that can withstand political transitions and gradually transform underlying norms and practices.
+This detailed structure ensures the anti-corruption framework has balanced representation across the political spectrum, clear operational guidelines, and robust safeguards against political weaponization, while maintaining the authority needed to effectively combat corruption. By integrating diverse perspectives, emphasizing transparency, and creating broad ownership, it seeks to create a sustainable approach that can withstand political transitions and gradually change underlying norms and practices.
 
 ### Implementation Strategy
 
